@@ -9,15 +9,15 @@ spec:
   owner: user:guest
   lifecycle: experimental
   projectName: 
-  moduleName: "Sample2"
+  moduleName: "Brain Detection 1228"
   informationAuthor: user:guest
-  modality: "Sample2"
-  bodyParts: "Sample2"
-  processingPurpose: "Sample2"
+  modality: "CT"
+  bodyParts: "brain"
+  processingPurpose: "detection"
   protocol: "Sample2"
-  algorithmType: "Sample2"
-  packageType: "Sample2"
-  supportedOs: "Sample2"
-  sourceCodeLanguage: 
-  developmentStatus: "Sample2"
+  algorithmType: "Expert Systems"
+  packageType: "VAF"
+  supportedOs: "Windows"
+  sourceCodeLanguage: "C++"
+  developmentStatus: "Pending"
   linkToProjectPage: "Sample2"
